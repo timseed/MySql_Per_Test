@@ -316,4 +316,8 @@ I then ran the **update** script again. These were the figures I got.
  Delete      |   360s   | 11 times   |
  Insert      |   270s   |  5 times   |
  Commit      |    0     |  0 times|
+
+
+As the data size has increased 10 times - these seem reasonable - in fact good performance figures.
+
  
